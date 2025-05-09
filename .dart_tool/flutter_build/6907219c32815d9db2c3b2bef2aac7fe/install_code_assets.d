@@ -1,0 +1,1 @@
+ C:\\Users\\Isayas\\Desktop\\Proyecto\ de\ Flutter\\control_de_gastos\\.dart_tool\\flutter_build\\6907219c32815d9db2c3b2bef2aac7fe\\native_assets.json: 
